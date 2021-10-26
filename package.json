@@ -1,0 +1,22 @@
+{
+  "name": "capsize-x-stitches",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@capsizecss/core": "3.0.0",
+    "@stitches/react": "latest",
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "typescript": "latest"
+  },
+  "license": "ISC",
+  "keywords": [],
+  "description": "Sandbox for Stitches CI"
+}
